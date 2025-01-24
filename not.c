@@ -1,4 +1,4 @@
-//Bit manipulation
+//Bit operation for not
 #include<stdio.h>
 int main()
 {
